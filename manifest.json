@@ -17,14 +17,6 @@
         "version": "2022.711.1150.0"
       },
       {
-        "checksum": "f41804a4382f282ee1315bec80f9500b",
-        "changelog": "Auto Released by Actions",
-        "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://github.com/javtube/jellyfin-plugin-javtube/releases/download/v2022.711.1059.0/Jellyfin.JavTube@v2022.711.1059.0.zip",
-        "timestamp": "2022-07-11T11:00:07Z",
-        "version": "2022.711.1059.0"
-      },
-      {
         "checksum": "a071ef6e04a421ff5876e1f19768a63f",
         "changelog": "Auto Released by Actions",
         "targetAbi": "10.8.0.0",
